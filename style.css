@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: aquamarine;
+  padding: 15px;
+}
+.logo {
+  height: 100;
+  width: 100;
+}
+.align {
+  text-align: right;
+  display: grid;
+}
+.navigation-bar {
+  display: flex;
+  justify-content: space-between;
+}
